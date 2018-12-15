@@ -11,6 +11,10 @@ When you click 'Find Papers' Bibnet records each paper or book that is returned 
 When you click 'Add citations' Using Google Scholar’s ‘search within citations’ it checks to see if any of the authors recorded to the database have cited any of the publications. This process will only trigger 40 queries at a time.
 Due to rate limiting it should not be run faster than this.
 
+It should be as simple as downloading the code, and then going into the directory where you downloaded the code in terminal and typing meteor — it should just start running. Then point Chrome browser to http://localhost:3000 and you’ll see it.
+
+You’ll also have to install the chrome extension, which it should direct you to do.
+
 ## Results
 Three tables are provided as part of the GUI. I think the authors and publications speak for themselves. The edges table represents three
 kinds of edge:

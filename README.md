@@ -14,6 +14,7 @@ Due to rate limiting it should not be run faster than this.
 It should be as simple as downloading the code, and then going into the directory where you downloaded the code in terminal and typing meteor — it should just start running. Then point Chrome browser to http://localhost:3000 and you’ll see it.
 
 You’ll also have to install the chrome extension, which it should direct you to do.
+For the Chrome extension you need to install the local version, not the version on Chrome.  Open the ‘extensions’ settings in Chrome; switch on ‘Developer mode’ (switch on the top-right), ‘Load unpacked’ from bibnet/public/bibnet_chrome_extension_testing.
 
 ## Results
 Three tables are provided as part of the GUI. I think the authors and publications speak for themselves. The edges table represents three

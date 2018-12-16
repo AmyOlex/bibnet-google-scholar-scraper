@@ -1,5 +1,5 @@
 
-var server_url ='https://969a9394.ngrok.io';
+var server_url ='https://8d0cd8c6.ngrok.io';
 
 document.cookie = "wc_extension_version=1.1";
 
